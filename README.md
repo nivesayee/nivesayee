@@ -21,7 +21,7 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 
 ---
 
-Feel free to explore my repositories, where data meets destiny. May the data be with you! 🚀
+Feel free to explore my repositories, where data meets destiny. May the data be with you! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
 ---
 
