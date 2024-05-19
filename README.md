@@ -1,6 +1,6 @@
 ### Greetings! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute.png" alt="Vulcan Salute" width="25" height="25" />
 
-I’m Niveditha, a data engineering Jedi, wielding the power of Python and the agility of Spark! When I'm not architecting data solutions, you can find me deep in the Marvel Cinematic Universe or enjoying the epic stunts of Rajnikanth. Recently, I've embarked on a new adventure into the world of blockchain technology. I'm from Chennai, India <img src="https://www.flaticon.com/free-icon/world_16022214?term=india&page=1&position=28&origin=search&related_id=16022214" width="25" height="25">, currently living in London, UK <img src="https://www.flaticon.com/free-icon/united-kingdom_197374?term=uk&page=1&position=1&origin=search&related_id=197374" width="25" height="25">.
+I’m Niveditha, a data engineering Jedi, wielding the power of Python and the agility of Spark! When I'm not architecting data solutions, you can find me deep in the Marvel Cinematic Universe or enjoying the epic stunts of Rajnikanth. Recently, I've embarked on a new adventure into the world of blockchain technology. I'm from Chennai, India <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png" width="25" height="25">, currently living in London, UK <img src="https://www.flaticon.com/free-icon/united-kingdom_197374?term=uk&page=1&position=1&origin=search&related_id=197374" width="25" height="25">.
 
 ---
 
