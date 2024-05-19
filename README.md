@@ -17,8 +17,8 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 ## Let's Connect
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Lowered%20Flag.png" alt="Open Mailbox with Lowered Flag" width="25" height="25" /> Feel the Force and reach out to me:<br/>
-[LinkedIn](https://www.linkedin.com/in/nivesayee/)
-[Discord](https://discord.com/users/nivesayee/)
+<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" width="25" height="25"/>(https://www.linkedin.com/in/nivesayee/)<br/>
+<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg" width="25" height="25"/>(https://discord.com/users/nivesayee/)
 
 ---
 
