@@ -2,7 +2,7 @@
 
 I’m Niveditha, a data engineering Jedi, wielding the power of Python and the agility of Spark! When I'm not architecting data solutions, you can find me deep in the Marvel Cinematic Universe or enjoying the epic stunts of Rajnikanth. Recently, I've embarked on a new adventure into the world of blockchain technology. 
 
-About Me
+About Me \n
 🌌 In a galaxy not so far away...
 
 I transform raw data into actionable insights, much like a Jedi turning Padawans into Masters. My toolkit includes a blend of programming languages, databases, ETL tools, and cloud services that make me a formidable force in the data universe.
