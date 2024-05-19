@@ -1,4 +1,4 @@
-### Greetings! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute.png" alt="Vulcan Salute" width="25" height="25" /> Live Long and Prosper! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute.png" alt="Vulcan Salute" width="25" height="25" />
+### Greetings! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute.png" alt="Vulcan Salute" width="25" height="25" />
 
 I’m Niveditha, a data engineering Jedi, wielding the power of Python and the agility of Spark! When I'm not architecting data solutions, you can find me deep in the Marvel Cinematic Universe or enjoying the epic stunts of Rajnikanth. Recently, I've embarked on a new adventure into the world of blockchain technology. 
 
