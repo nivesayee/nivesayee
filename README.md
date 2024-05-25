@@ -16,9 +16,10 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 
 ## Tools and Technologies I use
 
+<p>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-
+</p>
 ---
 
 ## Let's Connect
