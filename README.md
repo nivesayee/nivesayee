@@ -27,8 +27,8 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Lowered%20Flag.png" alt="Open Mailbox with Lowered Flag" width="25" height="25" /> Feel the Force and reach out to me:<br/>
 <br/>
-[<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" width="25" height="25"/>](https://www.linkedin.com/in/nivesayee/)
-[<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/discord/discord.svg" width="25" height="25"/>](https://discord.com/users/nivesayee/)
+<p><a href="https://www.linkedin.com/in/nivesayee" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://discord.com/users/nivesayee/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
 ---
 
