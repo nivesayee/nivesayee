@@ -16,7 +16,7 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 
 ## Tools and Technologies I use
 
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 
 ---
 
