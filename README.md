@@ -14,6 +14,11 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 
 ---
 
+## Tools and Technologies I use
+
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+---
+
 ## Let's Connect
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Lowered%20Flag.png" alt="Open Mailbox with Lowered Flag" width="25" height="25" /> Feel the Force and reach out to me:<br/>
