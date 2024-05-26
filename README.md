@@ -17,8 +17,8 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 ## What I work with
 
 <p>
-<img alt="Python" src="https://img.shields.io/badge/-python-3978ab?style=flat-square&logo=python&logoColor=white" />
-<img alt="Teradata" src="https://img.shields.io/badge/-teradata-ff6105?style=flat-square&logo=teradata&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3978ab?style=flat-square&logo=python&logoColor=white" />
+<img alt="Teradata" src="https://img.shields.io/badge/-Teradata-ff6105?style=flat-square&logo=teradata&logoColor=white" />
 
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
