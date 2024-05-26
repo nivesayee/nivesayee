@@ -23,6 +23,11 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-08668e?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-2e87fe?style=flat-square&logo=bitbucket&logoColor=white" />
+<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-d23d38?style=flat-square&logo=jenkins&logoColor=white" />
+<img alt="Artifactory" src="https://img.shields.io/badge/-Artifactory-66a940?style=flat-square&logo=jfrog&logoColor=white" />
+<img alt="Ansible" src="https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible&logoColor=white" />
+
 </p>
 
 ---
