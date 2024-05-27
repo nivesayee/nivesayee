@@ -19,6 +19,8 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3978ab?style=flat-square&logo=python&logoColor=white" />
 <img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-f7f700?style=flat-square&logo=apachehadoop&logoColor=white" />
+<img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?style=flat-square&logo=apachespark&logoColor=white" />
+
 <img alt="Teradata" src="https://img.shields.io/badge/-Teradata-ff6105?style=flat-square&logo=teradata&logoColor=white" />
 <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-ff0000?style=flat-square&logo=oracle&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-08668e?style=flat-square&logo=mysql&logoColor=white" />
