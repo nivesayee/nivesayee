@@ -37,20 +37,20 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white" />
 
 <strong>Cloud Services</strong><br/><br/>
-<img alt="" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
-<img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
-<img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
-<img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
+<img alt="Amazon Athena" src="https://img.shields.io/badge/-Amazon%20Athena-d8591d?logo=apachespark&logoColor=white" />
+<img alt="AWS Redshift" src="https://img.shields.io/badge/-AWS%20Redshift-d8591d?logo=apachespark&logoColor=white" />
+<img alt="AWS Glue" src="https://img.shields.io/badge/-AWS%20Glue-d8591d?logo=apachespark&logoColor=white" />
+<img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon%20S3-d8591d?logo=apachespark&logoColor=white" />
 
 <strong>Containerization</strong><br/><br/>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
 
 <strong>Workflow Automation</strong><br/><br/>
-<img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
+<img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache%20Airflow-d8591d?logo=apachespark&logoColor=white" />
 
 <strong>ETL tools</strong><br/><br/>
-<img alt="Informatica Powercenter" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
-<img alt="Informatica Big Data Management" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
+<img alt="Informatica Powercenter" src="https://img.shields.io/badge/-Informatica%20Powercenter-d8591d?logo=apachespark&logoColor=white" />
+<img alt="Informatica Big Data Management" src="https://img.shields.io/badge/-Informatica%20Big%20Data%20Management-d8591d?logo=apachespark&logoColor=white" />
 
 <strong>CI/CD tools</strong><br/><br/>
 <img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-2e87fe?logo=bitbucket&logoColor=white" />
