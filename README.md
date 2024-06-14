@@ -49,8 +49,8 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 <img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache%20Airflow-017cee?logo=apacheairflow&logoColor=white" />
 
 <strong>ETL tools</strong><br/><br/>
-<img alt="Informatica Powercenter" src="https://img.shields.io/badge/-Informatica%20Powercenter-d8591d?logo=apachespark&logoColor=white" />
-<img alt="Informatica Big Data Management" src="https://img.shields.io/badge/-Informatica%20Big%20Data%20Management-d8591d?logo=apachespark&logoColor=white" />
+<img alt="Informatica Powercenter" src="https://img.shields.io/badge/-Informatica%20Powercenter-ff4d00?logo=informatica&logoColor=white" />
+<img alt="Informatica Big Data Management" src="https://img.shields.io/badge/-Informatica%20Big%20Data%20Management-ff4d00?logo=informatica&logoColor=white" />
 
 <strong>CI/CD tools</strong><br/><br/>
 <img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-2e87fe?logo=bitbucket&logoColor=white" />
