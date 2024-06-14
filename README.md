@@ -17,7 +17,10 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 ## What I work with
 
 <p>
-<img alt="Python" src="https://img.shields.io/badge/-Python-3978ab?style=flat-square&logo=python&logoColor=white" />
+  Programming/Scripting Languauges
+<img alt="Python" src="https://img.shields.io/badge/-Python-3978ab?logo=python&logoColor=white" />
+<img alt="Bash" src="https://img.shields.io/badge/-Bash-%232e373c?logo=gnubash&logoColor=white" />
+
 <img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-57cee6?style=flat-square&logo=apachehadoop&logoColor=white" />
 <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?style=flat-square&logo=apachespark&logoColor=white" />
 
