@@ -38,9 +38,9 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 
 <strong>Cloud Services</strong><br/><br/>
 <img alt="Amazon Athena" src="https://img.shields.io/badge/-Amazon%20Athena-d8591d?logo=apachespark&logoColor=white" />
-<img alt="AWS Redshift" src="https://img.shields.io/badge/-AWS%20Redshift-d8591d?logo=apachespark&logoColor=white" />
+<img alt="Amazon Redshift" src="https://img.shields.io/badge/-Amazon%20Redshift-8C4fff?logo=amazonredshift&logoColor=white" />
 <img alt="AWS Glue" src="https://img.shields.io/badge/-AWS%20Glue-d8591d?logo=apachespark&logoColor=white" />
-<img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon%20S3-d8591d?logo=apachespark&logoColor=white" />
+<img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon%20S3-569a31?logo=amazons3&logoColor=white" />
 
 <strong>Containerization</strong><br/><br/>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
