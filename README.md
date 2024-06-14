@@ -25,8 +25,8 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
 <img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-57cee6?logo=apachehadoop&logoColor=white" />
 <img alt="Hive" src="https://img.shields.io/badge/-Hive-ff7a00?logo=apachehive&logoColor=white" />
-<img alt="Sqoop" src="https://img.shields.io/badge/-Sqoop-d8591d?logo=apachespark&logoColor=white" />
-<img alt="Impala" src="https://img.shields.io/badge/-Impala-d8591d?logo=apachespark&logoColor=white" />
+<img alt="Sqoop" src="https://img.shields.io/badge/-Sqoop-48bc58?logo=apache&logoColor=white" />
+<img alt="Impala" src="https://img.shields.io/badge/-Impala-336c94?logo=apache&logoColor=white" />
 
 <strong>RDBMS</strong><br/><br/>
 <img alt="Teradata" src="https://img.shields.io/badge/-Teradata-ff6105?logo=teradata&logoColor=white" />
