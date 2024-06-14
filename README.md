@@ -17,22 +17,46 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 ## What I work with
 
 <p>
-  Programming/Scripting Languauges
+<h3>Programming/Scripting Languauges </h3><br/>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3978ab?logo=python&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/-Bash-%232e373c?logo=gnubash&logoColor=white" />
 
-<img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-57cee6?style=flat-square&logo=apachehadoop&logoColor=white" />
-<img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?style=flat-square&logo=apachespark&logoColor=white" />
+<h3>Big Data and Analytics </h3><br/>
+<img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
+<img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-57cee6?logo=apachehadoop&logoColor=white" />
+<img alt="Hive" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
+<img alt="Sqoop" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
+<img alt="Impala" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
 
-<img alt="Teradata" src="https://img.shields.io/badge/-Teradata-ff6105?style=flat-square&logo=teradata&logoColor=white" />
-<img alt="Oracle" src="https://img.shields.io/badge/-Oracle-ff0000?style=flat-square&logo=oracle&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-08668e?style=flat-square&logo=mysql&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-2e87fe?style=flat-square&logo=bitbucket&logoColor=white" />
-<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-d23d38?style=flat-square&logo=jenkins&logoColor=white" />
-<img alt="Artifactory" src="https://img.shields.io/badge/-Artifactory-66a940?style=flat-square&logo=jfrog&logoColor=white" />
-<img alt="Ansible" src="https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible&logoColor=white" />
+<h3>RDBMS </h3><br/>
+<img alt="Teradata" src="https://img.shields.io/badge/-Teradata-ff6105?logo=teradata&logoColor=white" />
+<img alt="Oracle" src="https://img.shields.io/badge/-Oracle-ff0000?logo=oracle&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-08668e?logo=mysql&logoColor=white" />
+
+<h3>NoSQL </h3><br/>
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white" />
+
+<h3>Cloud Services </h3><br/>
+<img alt="" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
+<img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
+<img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
+<img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
+
+<h3>Containerization </h3><br/>
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
+
+<h3>Workflow Automation </h3><br/>
+<img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
+
+<h3>ETL tools</h3><br/>
+<img alt="Informatica Powercenter" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
+<img alt="Informatica Big Data Management" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
+
+<h3>CI/CD tools </h3><br/>
+<img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-2e87fe?logo=bitbucket&logoColor=white" />
+<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-d23d38?logo=jenkins&logoColor=white" />
+<img alt="Artifactory" src="https://img.shields.io/badge/-Artifactory-66a940?logo=jfrog&logoColor=white" />
+<img alt="Ansible" src="https://img.shields.io/badge/-Ansible-black?logo=ansible&logoColor=white" />
 
 </p>
 
