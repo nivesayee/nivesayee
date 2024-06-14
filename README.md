@@ -17,26 +17,26 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 ## What I work with
 
 <p>
-<h3>Programming/Scripting Languauges </h3><br/>
+<h5>Programming/Scripting Languauges</h5><br/>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3978ab?logo=python&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/-Bash-%232e373c?logo=gnubash&logoColor=white" />
 
-<h3>Big Data and Analytics </h3><br/>
+<h5>Big Data and Analytics</h5><br/>
 <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
 <img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-57cee6?logo=apachehadoop&logoColor=white" />
 <img alt="Hive" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
 <img alt="Sqoop" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
 <img alt="Impala" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
 
-<h3>RDBMS </h3><br/>
+<h5>RDBMS</h5><br/>
 <img alt="Teradata" src="https://img.shields.io/badge/-Teradata-ff6105?logo=teradata&logoColor=white" />
 <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-ff0000?logo=oracle&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-08668e?logo=mysql&logoColor=white" />
 
-<h3>NoSQL </h3><br/>
+<h5>NoSQL</h5><br/>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white" />
 
-<h3>Cloud Services </h3><br/>
+<h5>Cloud Services</h3><br/>
 <img alt="" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
 <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
 <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
