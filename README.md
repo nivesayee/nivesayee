@@ -69,9 +69,3 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 <a href="https://discord.com/users/nivesayee/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-discord-d4d4d4?style=for-the-badge&logo=discord" /></a></p>
 
 ---
-
-Feel free to explore my repositories, where data meets destiny. May the data be with you! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
-
----
-
-With great data comes great responsibility.
