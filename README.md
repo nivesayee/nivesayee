@@ -46,7 +46,7 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
 
 <strong>Workflow Automation</strong><br/><br/>
-<img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache%20Airflow-d8591d?logo=apachespark&logoColor=white" />
+<img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache%20Airflow-017cee?logo=apacheairflow&logoColor=white" />
 
 <strong>ETL tools</strong><br/><br/>
 <img alt="Informatica Powercenter" src="https://img.shields.io/badge/-Informatica%20Powercenter-d8591d?logo=apachespark&logoColor=white" />
