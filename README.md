@@ -42,17 +42,17 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
 <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
 
-<h4>Containerization </h4><br/>
+<h4>Containerization</h4><br/>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
 
-<h4>Workflow Automation </h4><br/>
+<h4>Workflow Automation</h4><br/>
 <img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
 
 <h4>ETL tools</h4><br/>
 <img alt="Informatica Powercenter" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
 <img alt="Informatica Big Data Management" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
 
-<h4>CI/CD tools </h4><br/>
+<h4>CI/CD tools</h4><br/>
 <img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-2e87fe?logo=bitbucket&logoColor=white" />
 <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-d23d38?logo=jenkins&logoColor=white" />
 <img alt="Artifactory" src="https://img.shields.io/badge/-Artifactory-66a940?logo=jfrog&logoColor=white" />
