@@ -1,6 +1,6 @@
-![Banner Image](images/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
+<img src="images/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100"/>
 
-### Hello World ! <img src="images/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif" alt="Vulcan Salute" width="25" height="25" />
+### Hello World ! <img src="images/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif" width="25" height="25" />
 
 I’m Niveditha, a data engineer with 7 years of experience wrangling data into submission. When I'm not building data pipelines, I'm diving into the exciting world of blockchain ⛓️.
 
