@@ -1,4 +1,4 @@
-<iframe src="banner.html" width="100%" height="300" frameborder="0"></iframe>
+![Banner Image](images/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
 
 ### Hello World ! <img src="images/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif" alt="Vulcan Salute" width="25" height="25" />
 
