@@ -17,7 +17,7 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 ## What I work with
 
 <p>
-<strong>Programming/Scripting Languauges</strong>
+<strong>Programming/Scripting Languauges</strong>&nbsp;&nbsp;&nbsp;
 <img alt="Python" src="https://img.shields.io/badge/-Python-3978ab?logo=python&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/-Bash-%232e373c?logo=gnubash&logoColor=white" />
 
