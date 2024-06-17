@@ -64,6 +64,6 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 
 ## Let's Connect
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Lowered%20Flag.png" alt="Open Mailbox with Lowered Flag" width="25" height="25" /> Feel free to reach out! I'm always up for interesting conversations about data, tech, or even the best places to find the most delicious samosas in London (recommendations welcome! :P)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Lowered%20Flag.png" alt="Open Mailbox with Lowered Flag" width="25" height="25" /> Feel free to reach out! I'm always up for interesting conversations about data, tech, or even the best places to find the most delicious samosas in London (recommendations welcome! 😉 )
 <p><a href="https://www.linkedin.com/in/nivesayee" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://discord.com/users/nivesayee/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-discord-d4d4d4?style=for-the-badge&logo=discord" /></a></p>
