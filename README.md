@@ -21,7 +21,7 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 <img alt="Python" src="https://img.shields.io/badge/-Python-3978ab?logo=python&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/-Bash-%232e373c?logo=gnubash&logoColor=white" />
 
-<strong>Big Data and Analytics</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>Big Data and Analytics</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
 <img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-57cee6?logo=apachehadoop&logoColor=white" />
 <img alt="Hive" src="https://img.shields.io/badge/-Hive-ff7a00?logo=apachehive&logoColor=white" />
