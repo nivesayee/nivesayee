@@ -28,7 +28,7 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 <img alt="Sqoop" src="https://img.shields.io/badge/-Sqoop-48bc58?logo=apache&logoColor=white" />
 <img alt="Impala" src="https://img.shields.io/badge/-Impala-336c94?logo=apache&logoColor=white" />
 
-<strong>RDBMS</strong>
+<strong>RDBMS</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Teradata" src="https://img.shields.io/badge/-Teradata-ff6105?logo=teradata&logoColor=white" />
 <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-ff0000?logo=oracle&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-08668e?logo=mysql&logoColor=white" />
