@@ -17,42 +17,42 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 ## What I work with
 
 <p>
-<strong>Programming/Scripting Languauges          </strong>
+<strong>Programming/Scripting Languauges</strong>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3978ab?logo=python&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/-Bash-%232e373c?logo=gnubash&logoColor=white" />
 
-<strong>Big Data and Analytics</strong><br/><br/>
+<strong>Big Data and Analytics</strong>
 <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-d8591d?logo=apachespark&logoColor=white" />
 <img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-57cee6?logo=apachehadoop&logoColor=white" />
 <img alt="Hive" src="https://img.shields.io/badge/-Hive-ff7a00?logo=apachehive&logoColor=white" />
 <img alt="Sqoop" src="https://img.shields.io/badge/-Sqoop-48bc58?logo=apache&logoColor=white" />
 <img alt="Impala" src="https://img.shields.io/badge/-Impala-336c94?logo=apache&logoColor=white" />
 
-<strong>RDBMS</strong><br/><br/>
+<strong>RDBMS</strong>
 <img alt="Teradata" src="https://img.shields.io/badge/-Teradata-ff6105?logo=teradata&logoColor=white" />
 <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-ff0000?logo=oracle&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-08668e?logo=mysql&logoColor=white" />
 
-<strong>NoSQL</strong><br/><br/>
+<strong>NoSQL</strong>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white" />
 
-<strong>Cloud Services</strong><br/><br/>
+<strong>Cloud Services</strong>
 <img alt="Amazon Athena" src="https://img.shields.io/badge/-Amazon%20Athena-ed8132?logo=amazonwebservices&logoColor=white" />
 <img alt="Amazon Redshift" src="https://img.shields.io/badge/-Amazon%20Redshift-8C4fff?logo=amazonredshift&logoColor=white" />
 <img alt="AWS Glue" src="https://img.shields.io/badge/-AWS%20Glue-984d24?logo=amazonwebservices&logoColor=white" />
 <img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon%20S3-569a31?logo=amazons3&logoColor=white" />
 
-<strong>Containerization</strong><br/><br/>
+<strong>Containerization</strong>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
 
-<strong>Workflow Automation</strong><br/><br/>
+<strong>Workflow Automation</strong>
 <img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache%20Airflow-017cee?logo=apacheairflow&logoColor=white" />
 
-<strong>ETL tools</strong><br/><br/>
+<strong>ETL tools</strong>
 <img alt="Informatica Powercenter" src="https://img.shields.io/badge/-Informatica%20Powercenter-ff4d00?logo=informatica&logoColor=white" />
 <img alt="Informatica Big Data Management" src="https://img.shields.io/badge/-Informatica%20Big%20Data%20Management-ff4d00?logo=informatica&logoColor=white" />
 
-<strong>CI/CD tools</strong><br/><br/>
+<strong>CI/CD tools</strong>
 <img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-2e87fe?logo=bitbucket&logoColor=white" />
 <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-d23d38?logo=jenkins&logoColor=white" />
 <img alt="Artifactory" src="https://img.shields.io/badge/-Artifactory-66a940?logo=jfrog&logoColor=white" />
