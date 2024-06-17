@@ -2,15 +2,7 @@
 
 I’m Niveditha, a data engineer with 7 years of experience wrangling data into submission. Currently based in London, UK <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png"> (but Chennai, India <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png"> holds a special place in my heart ). When I'm not building data pipelines, I'm diving into the exciting world of blockchain ⛓️.
 
----
-
-## About Me
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /> **In a galaxy not so far away...**
-
-I transform raw data into actionable insights, much like a Jedi turning Padawans into Masters. My toolkit includes a blend of programming languages, databases, ETL tools, and cloud services that make me a formidable force in the data universe.
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> **Fun Fact:** When I'm not coding <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="25" height="25" />, I'm either binge-watching Star Wars, dissecting Marvel theories, or catching the latest Rajnikanth blockbuster.
+"Building bridges with code, one line at a time. Chennai roots keep me grounded, London life keeps me sharp."
 
 ---
 
