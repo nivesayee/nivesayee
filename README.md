@@ -52,7 +52,7 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 <img alt="Informatica Powercenter" src="https://img.shields.io/badge/-Informatica%20Powercenter-ff4d00?logo=informatica&logoColor=white" />
 <img alt="Informatica Big Data Management" src="https://img.shields.io/badge/-Informatica%20Big%20Data%20Management-ff4d00?logo=informatica&logoColor=white" />
 
-<strong>CI/CD tools</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>CI/CD tools</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-2e87fe?logo=bitbucket&logoColor=white" />
 <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-d23d38?logo=jenkins&logoColor=white" />
 <img alt="Artifactory" src="https://img.shields.io/badge/-Artifactory-66a940?logo=jfrog&logoColor=white" />
