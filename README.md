@@ -42,7 +42,7 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 <img alt="AWS Glue" src="https://img.shields.io/badge/-AWS%20Glue-984d24?logo=amazonwebservices&logoColor=white" />
 <img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon%20S3-569a31?logo=amazons3&logoColor=white" />
 
-<strong>Containerization</strong>
+<strong>Containerization</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
 
 <strong>Workflow Automation</strong>
