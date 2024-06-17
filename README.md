@@ -2,7 +2,7 @@
 
 I’m Niveditha, a data engineer with 7 years of experience wrangling data into submission. When I'm not building data pipelines, I'm diving into the exciting world of blockchain ⛓️.
 
-"Building bridges with code, one line at a time. Chennai roots keep me grounded, London life keeps me sharp."
+"Building bridges with code, one line at a time. Chennai <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png"> roots keep me grounded, London <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png"> life keeps me sharp."
 
 ---
 
