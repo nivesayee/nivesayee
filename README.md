@@ -1,4 +1,4 @@
-<img src="images/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100"/>
+<img src="images/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="2000"/>
 
 ### Hello World ! <img src="images/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif" width="25" height="25" />
 
