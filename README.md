@@ -1,4 +1,4 @@
-<img src="images/banner.gif"/>
+<img src="images/banner.gif" width="2000"/>
 
 ### Hello World ! <img src="images/smiley.gif" width="25" height="25"/>
 
