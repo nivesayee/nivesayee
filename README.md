@@ -33,7 +33,7 @@ I transform raw data into actionable insights, much like a Jedi turning Padawans
 <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-ff0000?logo=oracle&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-08668e?logo=mysql&logoColor=white" />
 
-<strong>NoSQL</strong>
+<strong>NoSQL</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white" />
 
 <strong>Cloud Services</strong>
