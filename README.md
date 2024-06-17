@@ -1,6 +1,6 @@
 ### Hello World ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute.png" alt="Vulcan Salute" width="25" height="25" />
 
-I’m Niveditha, a data engineering Jedi, wielding the power of Python and the agility of Spark! When I'm not architecting data solutions, you can find me deep in the Marvel Cinematic Universe or enjoying the epic stunts of Rajnikanth. Recently, I've embarked on a new adventure into the world of blockchain technology. I'm from Chennai, India <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png">, currently living in London, UK <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png">.
+I’m Niveditha, a data engineer with 7 years of experience wrangling data into submission. Currently based in London, UK <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png"> (but Chennai, India <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png"> holds a special place in my heart ). When I'm not building data pipelines, I'm diving into the exciting world of blockchain ⛓️.
 
 ---
 
