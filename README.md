@@ -1,4 +1,4 @@
-### Hello World ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute.png" alt="Vulcan Salute" width="25" height="25" />
+### Hello World ! <img src="images/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif" alt="Vulcan Salute" width="25" height="25" />
 
 I’m Niveditha, a data engineer with 7 years of experience wrangling data into submission. When I'm not building data pipelines, I'm diving into the exciting world of blockchain ⛓️.
 
