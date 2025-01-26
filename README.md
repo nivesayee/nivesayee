@@ -40,7 +40,7 @@ I’m Niveditha, a data engineer with 7 years of experience wrangling data into 
 <img alt="AWS Glue" src="https://img.shields.io/badge/-AWS%20Glue-984d24?logo=amazonwebservices&logoColor=white" />
 <img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon%20S3-569a31?logo=amazons3&logoColor=white" />
 <img alt="Snowflake" src="https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white" />
-<img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon%20S3-569a31?logo=amazons3&logoColor=white" />
+<img alt="Databricks" src="https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white" />
 
 <strong>Containerization</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
