@@ -2,13 +2,25 @@
 
 ### Hello World ! <img src="images/smiley.gif" width="25" height="25"/>
 
-I’m Niveditha, a data engineer with 9+ years of experience wrangling data into submission.
+👩‍💻 Senior Data Engineer | ☁️ Cloud & Big Data | 🧠 Curious by default  
 
-> "Building bridges with code, one line at a time. Chennai <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png">  roots keep me grounded, London <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png">  life keeps me sharp."
+I’m a **Senior Data Engineer with 9+ years of experience** building scalable, reliable data systems.  
+I like clean pipelines, readable code, and data platforms that *don’t wake people up at 2 AM*.
+
+I enjoy solving messy data problems and turning them into **simple, dependable solutions**.
 
 ---
 
-## What I work with
+## 🚀 What I Actually Do
+- Build **end-to-end data pipelines**
+- Work with **big data at scale** (Spark & Databricks)
+- Design cloud-native data platforms on **Azure**
+- Optimize for **performance, cost, and sanity**
+- Ask “why” before adding complexity
+
+---
+
+## 🛠️ Tech I Work With
 
 <p>
 <strong>Programming/Scripting Languauges</strong>&nbsp;&nbsp;&nbsp;
@@ -59,6 +71,37 @@ I’m Niveditha, a data engineer with 9+ years of experience wrangling data into
 <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-black?logo=ansible&logoColor=white" />
 
 </p>
+
+**Things I Care About**
+- ETL / ELT done right  
+- Incremental & scalable processing  
+- Data modeling that makes sense  
+- Pipelines that are boring (in a good way)
+
+---
+
+## 🧠 My Data Engineering Philosophy
+- Simple > clever  
+- Readable > magical  
+- Reliable > fancy  
+- If it breaks at 2 AM, it’s not done yet  
+
+---
+
+## 📂 What You’ll Find Here
+- Data engineering experiments  
+- Spark & Databricks examples  
+- Python utilities for data processing  
+- Cloud-focused data solutions  
+
+*(This space grows as I learn, break things, and fix them.)*
+
+---
+
+## 🌱 Currently Learning
+- Advanced Spark & Databricks optimizations  
+- Cloud cost tuning  
+- Better observability for data pipelines  
 
 ---
 
