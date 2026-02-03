@@ -64,6 +64,7 @@ I’m Niveditha, a data engineer with 9+ years of experience wrangling data into
 
 ## Let's Connect
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Lowered%20Flag.png" alt="Open Mailbox with Lowered Flag" width="25" height="25" /> Feel free to reach out! I'm always up for interesting conversations about data, tech, or even the best places to find the most delicious samosas in London (recommendations welcome! 😉)
-<p><a href="https://www.linkedin.com/in/nivesayee" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://discord.com/users/nivesayee/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-discord-d4d4d4?style=for-the-badge&logo=discord" /></a></p>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/nivesayee)  
+- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nivesayee/)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)] — you’re already here 🙂
+
